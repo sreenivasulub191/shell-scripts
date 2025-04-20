@@ -1,2 +1,3 @@
 hello git world!
-This is from main branch
+<<<<<<< HEAD
+This is from both feature and main branches.
